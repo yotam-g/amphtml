@@ -16,6 +16,6 @@
     "core-js": "3.16.4",
     "preact": "10.5.14",
     "preact-render-to-string": "5.1.19",
-    "styled-jsx": "4.0.0"
+    "styled-jsx": "4.0.1"
   }
 }
